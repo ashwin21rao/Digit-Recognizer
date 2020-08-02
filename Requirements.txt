@@ -1,4 +1,6 @@
 tensorflow v2.0 or higher
+matplotlib
+scikit-learn
 numpy
 opencv-python
 pygame
