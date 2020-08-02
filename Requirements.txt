@@ -1,0 +1,5 @@
+tensorflow v2.0 or higher
+numpy
+opencv-python
+pygame
+tkinter
